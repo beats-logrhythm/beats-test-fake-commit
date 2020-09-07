@@ -1,0 +1,9 @@
+---- Objectives ----
+	- Support for OC on RHEL  & DOcker Enterprise --> F1055
+	- Remote management API -- existing open collector --> F1057
+	- Microsoft Cloud App Security Beat --> F2744
+	- Audit log added to Cisco Amp for Endpoints beat --> F2751
+	- Duo Authentication Security Beat --> F2741
+	- AWS S3 Beats log source identification method --> F2849
+	- Update AWS S3 Beats API Auth call sts:AssumeRole --> F2743
+	
